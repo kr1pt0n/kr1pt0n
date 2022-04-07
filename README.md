@@ -1,5 +1,5 @@
 <p align='center'>
-    <img src="https://i.redd.it/p3nlqakx2bt21.gif">
+    <img src="https://c.tenor.com/naR85rQtmLsAAAAC/code-secret.gif">
 </p>
 
 <a href="https://github-readme-stats.vercel.app/api?username=kr1pt0n&count_private=true&show_icons=true&theme=chartreuse-dark">
