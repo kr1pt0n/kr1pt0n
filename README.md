@@ -12,7 +12,7 @@
 ### Technologies
 
 ![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
-![Wordpress](https://github.com/hussainweb/hussainweb/raw/main/icons/wordpress.png&logo=Wordpress)
+![Wordpress](https://github.com/hussainweb/hussainweb/raw/main/icons/wordpress.png)Wordpress
 
 
 <b>🔥 Github Streaks</b>
