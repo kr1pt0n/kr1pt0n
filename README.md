@@ -18,7 +18,6 @@
 ### Technologies
 
 ![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
-![Angular](https://img.shields.io/badge/-Angular-000?&logo=Angular)
 
 
 <b>🔥 Github Streaks</b>
