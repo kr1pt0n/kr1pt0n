@@ -11,8 +11,6 @@
 
 ### Technologies
 
-
-![Wordpress](https://github.com/hussainweb/hussainweb/raw/main/icons/wordpress.png)
 ![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
 
 
