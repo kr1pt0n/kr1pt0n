@@ -18,6 +18,7 @@
 ### Technologies
 
 ![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
+![Shell](https://img.shields.io/badge/-Linux-000?&logo=Linux)
 
 
 <b>🔥 Github Streaks</b>
