@@ -9,12 +9,6 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kr1pt0n&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
 </a>
 
-
-### Languages
-
-![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
-
-
 ### Technologies
 
 ![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
