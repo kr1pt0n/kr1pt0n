@@ -1,5 +1,5 @@
 <p align='center'>
-    <img src="https://gidigi.com/cdn/love.gif">
+    <img src="http://24.media.tumblr.com/0076127473163b6e389f38ff4157719d/tumblr_mtte8djBlT1rat0tqo1_500.gif">
 </p>
 
 <a href="https://github-readme-stats.vercel.app/api?username=kr1pt0n&count_private=true&show_icons=true&theme=chartreuse-dark">
