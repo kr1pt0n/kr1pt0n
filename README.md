@@ -29,9 +29,11 @@
 <a href="https://github-readme-stats.vercel.app/api?username=kr1pt0n&count_private=true&show_icons=true&theme=chartreuse-dark">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=kr1pt0n&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
 </a>
+
 <a href="https://github.com/kr1pt0n">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kr1pt0n&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
 </a>
+
 
 ![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
 
