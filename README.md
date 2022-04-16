@@ -1,13 +1,4 @@
-<p align='center'>
-    <img src="https://c.tenor.com/naR85rQtmLsAAAAC/code-secret.gif">
-</p>
 
-<a href="https://github-readme-stats.vercel.app/api?username=kr1pt0n&count_private=true&show_icons=true&theme=chartreuse-dark">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=kr1pt0n&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
-</a>
-<a href="https://github.com/kr1pt0n">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kr1pt0n&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
-</a>
 
 <div align="center">
   <h1> Hello I'm kr1pt0n </h1>
@@ -33,6 +24,16 @@
   <img width="15%" src="https://www.vectorlogo.zone/logos/vim/vim-ar21.svg" />
   -->
 </p>
+<p align='center'>
+    <img src="https://c.tenor.com/naR85rQtmLsAAAAC/code-secret.gif">
+</p>
+
+<a href="https://github-readme-stats.vercel.app/api?username=kr1pt0n&count_private=true&show_icons=true&theme=chartreuse-dark">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=kr1pt0n&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
+</a>
+<a href="https://github.com/kr1pt0n">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kr1pt0n&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
+</a>
 
 ### Technologies
 
