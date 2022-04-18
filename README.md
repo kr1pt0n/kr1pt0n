@@ -13,7 +13,7 @@
 </br>
 
 - Learning CyberSecurity (Pentesting) On HTB(HackTheBox) & THM(TryHackMe)
-<p>
+<p><a>
     <img width="15%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg" />}
     <img width="15%" src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg" />
     <img width="15%" src="https://www.vectorlogo.zone/logos/debian/debian-ar21.svg" />
@@ -22,7 +22,7 @@
     <!--
     <img width="15%" src="https://www.vectorlogo.zone/logos/vim/vim-ar21.svg" />
   -->
-</p>
+  </a></p>
 
 
 <a href="https://github-readme-stats.vercel.app/api?username=kr1pt0n&count_private=true&show_icons=true&theme=chartreuse-dark">
