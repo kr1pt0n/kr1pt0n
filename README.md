@@ -13,16 +13,16 @@
 </br>
 
 - Learning CyberSecurity (Pentesting) On HTB(HackTheBox) & THM(TryHackMe)
-<p><a>
-    <img width="15%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg" />}
-    <img width="15%" src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg" />
-    <img width="15%" src="https://www.vectorlogo.zone/logos/debian/debian-ar21.svg" />
-    <img width="15%" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-ar21.svg" />
-    <img width="15%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg" />
+<p>
+    <img width="15%" <img align="center" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg" />}
+    <img width="15%" <img align="center" src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg" />
+    <img width="15%" <img align="center" src="https://www.vectorlogo.zone/logos/debian/debian-ar21.svg" />
+    <img width="15%" <img align="center" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-ar21.svg" />
+    <img width="15%" <img align="center" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg" />
     <!--
     <img width="15%" src="https://www.vectorlogo.zone/logos/vim/vim-ar21.svg" />
   -->
-  </a></p>
+  </a>
 
 
 <a href="https://github-readme-stats.vercel.app/api?username=kr1pt0n&count_private=true&show_icons=true&theme=chartreuse-dark">
