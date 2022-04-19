@@ -8,7 +8,7 @@
 <h3> CyberSecurity Junior | Red-Team/Pentester | HTB Player </h3> 
       <h4>My Hack The Box Profile</h4>
   <a title="Hack The Box Profile" href="https://app.hackthebox.com/users/749875">
-<img src="htb_stat.png" alt="Hack The Box Profile"></a>
+<img src="htb.stat.png" alt="Hack The Box Profile"></a>
 </div>
 </br>
 
